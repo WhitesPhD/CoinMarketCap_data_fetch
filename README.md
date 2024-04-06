@@ -1,5 +1,5 @@
 # CoinMarketCap_data_fetch
-Codes and functions you can use to fetch historical and latest data from CoinMarketCap, subject to have an API key 
+Codes and functions you can use to fetch historical and latest data from CoinMarketCap, subject to having a pro API key 
 
 The folder contains:
 CoinMarketCap_functions.py: A series of functions that allows to fetch data from CoinMarketCap API
